@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @diegopereiracruz
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning C, Java, HTML, CSS.
-- 💞️ I’m looking to collaborate on webdesign with HTML5 and CSS3.
+- 👀 Interessado em Front-end
+- 🌱 Atualmente estudando JavaScript e React.
+- 💞️ Pretendo colaborar com Web Design e Front-end.
 
 <!---
 diegopereiracruz/diegopereiracruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
